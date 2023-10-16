@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.video-animation {
+  animation: animate 2s infinite ease alternate;
+}
+  
+  
+  
+@keyframes animate {
+  to {
+    transform: translateY(20px);
+  }
+}
