@@ -24,10 +24,16 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 To configure the application to work, you should add the following environment variables to your .env.local file, replacing 'your_own_values' with your actual values:
 
 RESEND_API_KEY=your_own_value
+```
 GOOGLE_CLIENT_ID=your_own_value
+```
 GOOGLE_CLIENT_SECRET=your_own_value
+```
 ACCESS_KEY=your_own_value
+```
 SECRET_KEY=your_own_value
+```
 REGION=your_own_value
+```
 BUCKET_NAME=your_own_value"
 
